@@ -35,7 +35,7 @@ d) use QLora to finetune a model. generate custom data set.
 
 hint: https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_-UuhSSQ1U/edit#slide=id.g28b63e79207_0_7021Links to an external site. (see notes slide) and mistral slides 
 
- 
+ Colab link: https://colab.research.google.com/drive/1WgX1hJLsDtrENIbl3mtozLvt2PAUe2l0?usp=sharing
 
 e) use mistral llm with RAG and demonstrate a production usecase
 
