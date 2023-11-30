@@ -43,7 +43,7 @@ hint: https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_
 
 deploy the finetuned model on production
 
- 
+ colab link: https://colab.research.google.com/drive/1Spv9R0mQHMW6qIyzFPifyrAVlvMfjM6w?usp=sharing
 
 f) integrate mistral model as backend with langchain - demonstrate simple prompts
 
