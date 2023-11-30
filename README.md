@@ -53,7 +53,7 @@ Hint: https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_
 
 (see notes)
 
- 
+ colab link: https://colab.research.google.com/drive/1HxB7Dn5fPfh5UquZB_xNqKXJstG8LwKy?usp=sharing
 
 g) Quantize llm with ggml and gguf and build an end2end chat application on mobile phone and load the model and demonstrate using MLC end2end.
 
