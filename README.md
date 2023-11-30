@@ -18,7 +18,7 @@ Leverage auto agent to build a virtual company to do a project (use gpt4) and pr
 
 Hint: https://github.com/Link-AGI/AutoAgentsLinks to an external site.
 
- 
+ Colab link: https://colab.research.google.com/drive/1Tig6AB-_rMaBtsNjvWXAkXd7akj7Mlbe?usp=sharing
 
 c) Finetune LLM for your custom task
 
