@@ -10,6 +10,8 @@ Build a very simple python agent and demonstrate multiple backend tools (use cha
 
 hint: https://til.simonwillison.net/llms/python-react-patternLinks to an external site. and https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_-UuhSSQ1U/edit#slide=id.g285ab91e5c8_0_338Links to an external site. (see notes)
 
+colab link: https://colab.research.google.com/drive/1U9oEWDc4iwkcBLigPHA4pUYuvIgJ8MJn?usp=sharing
+
 b) Implement auto agent
 
 Leverage auto agent to build a virtual company to do a project (use gpt4) and provide all the artifacts of the project. come up with novel example other than the hint file 
